@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Starters",
+      "items": [
+        { "name": "Bruschetta", "description": "Grilled bread with tomato", "price": 8 },
+        { "name": "Stuffed Mushrooms", "description": "Mushrooms with cheese", "price": 10 }
+      ]
+    },
+    {
+      "name": "Main Courses",
+      "items": [
+        { "name": "Grilled Salmon", "description": "Salmon with vegetables", "price": 18 },
+        { "name": "Steak", "description": "Grilled steak with fries", "price": 22 }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        { "name": "Cheesecake", "description": "Creamy cheesecake", "price": 7 },
+        { "name": "Chocolate Cake", "description": "Rich chocolate cake", "price": 6 }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        { "name": "Coffee", "description": "Freshly brewed coffee", "price": 3 },
+        { "name": "Tea", "description": "Selection of herbal teas", "price": 3 },
+        { "name": "Soda", "description": "Choice of cola, diet cola, or lemon-lime", "price": 2 },
+        { "name": "Orange Juice", "description": "Freshly squeezed orange juice", "price": 4 }
+      ]
+    },
+    {
+      "name": "Soups",
+      "items": [
+        { "name": "Tomato Soup", "description": "Creamy tomato soup with basil", "price": 5 },
+        { "name": "Chicken Noodle Soup", "description": "Classic chicken noodle soup", "price": 6 },
+        { "name": "Minestrone", "description": "Hearty Italian vegetable soup", "price": 6 },
+        { "name": "French Onion Soup", "description": "Rich onion soup topped with melted cheese", "price": 7 }
+      ]
+    }
+  ]
+  
